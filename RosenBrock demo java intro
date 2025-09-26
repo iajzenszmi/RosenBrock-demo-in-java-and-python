@@ -1,0 +1,2 @@
+https://chatgpt.com/share/68d6e99d-8d70-8005-ba0b-ac2affef87fd
+Here’s a clean, single-file Java demo of the 2-D Rosenbrock function with a robust BFGS optimizer (line search with Armijo backtracking). It prints each iteration, then the final point/value. No external libraries
