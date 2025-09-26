@@ -1,0 +1,6 @@
+javac RosenbrockDemo.java
+# default start (-1.2, 1.0)
+java RosenbrockDemo
+
+# or custom start, e.g. x0= -1.5, y0= 1.5, maxIters= 2000, tol=1e-10
+java RosenbrockDemo -1.5 1.5 2000 1e-10
